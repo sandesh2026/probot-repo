@@ -62,7 +62,7 @@ collaborators:
     permission: push
 git:
   - ref: refs/heads/develop
-    sha: 05cfcb8616ca1ab26dae0fc5a4d9fc0df85298fb
+    sha: bdb2b985bf25ce2d7567ad4ff6325da504ddb0cf
   
 
 
