@@ -60,7 +60,7 @@ collaborators:
 
   - username: sandesh2025
     permission: push
-refs:
+git:
   ref: refs/heads/develop
   sha: 05cfcb8616ca1ab26dae0fc5a4d9fc0df85298fb
   
